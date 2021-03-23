@@ -9,3 +9,9 @@
     * 03 - Elements Styling
     * 04 - Name Conventions And Rules
     * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-01~L-04)
+* ### [L-05 ~ L-08](https://github.com/islamahmedc/Elzero_CSS_2021_Course/wiki/Home---L-05-~-L-08)
+    * 05 - Background – Color, Image, Repeat
+    * 06 - Background – Attachment, Position, Size
+    * 07 - Padding
+    * 08 - Margin
+    * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-05~L-08)
