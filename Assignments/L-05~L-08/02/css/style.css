@@ -1,0 +1,27 @@
+div {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(../images/squares.png);
+    background-color: #eeeeee;
+    color: white;
+    box-sizing: border-box;  /*To be explained later in the course - keeps the paddign internal in the box and reduce the size of the space available for content*/
+}
+
+.assign-2-shape-1 {
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.assign-2-shape-2 {
+    background-repeat: repeat-y;
+    display: inline-block;
+}
+.assign-2-shape-3 {
+    background-repeat: repeat-x;
+    display: inline-block;
+}
+.assign-2-shape-4 {
+    background-repeat: repeat;
+    display: inline-block;
+}
