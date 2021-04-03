@@ -1,0 +1,23 @@
+div {
+    display: inline-block;
+    background-color: #EEE;
+    /* width: 300px;
+    height: 100px; */
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    outline: 5px solid black;
+}
+.Shape1 {
+    border: 5px solid red;
+}
+.Shape2 {
+    border: 5px solid ;
+    border-color: blue green;
+}
+.Shape3 {
+    border: 5px dashed ;
+    border-color:red green blue yellow;
+}
+

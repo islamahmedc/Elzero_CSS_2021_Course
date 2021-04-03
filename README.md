@@ -15,3 +15,9 @@
     * 07 - Padding
     * 08 - Margin
     * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-05~L-08)
+* ### [L-09 ~ L-12](https://github.com/islamahmedc/Elzero_CSS_2021_Course/wiki/L-09-~-L-12)
+    * 09 - Border
+    * 10 - Outline
+    * 11 - Display – Block, Inline-Block, Inline
+    * 12 - Element Visibility And Use Case
+    * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-09~L-12)

@@ -1,0 +1,20 @@
+div {
+    background-color: #EEE;
+    width: 400px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 25px;
+    outline: 10px solid #EEE;
+    border: 5px ;
+    border-style: none none none solid;
+}
+.Shape1 {
+    border-color: #e91e63;
+}
+.Shape2 {
+    visibility: hidden;
+}
+.Shape3 {
+    border-color: #009688;
+}
+
