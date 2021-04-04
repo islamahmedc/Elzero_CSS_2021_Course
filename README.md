@@ -34,3 +34,10 @@
     * 20 - Text – Spacing
     * 21 - Text – Overflow And Use Cases
     * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-17~L-21)
+* ### [L-22 ~ L-26](https://github.com/islamahmedc/Elzero_CSS_2021_Course/wiki/L-22-~-L-26)
+    * 22 - Inheritance
+    * 23 - Typography – Font Family
+    * 24 - Typography – Font Size And CSS Units
+    * 25 - Typography – Font Style And Variant And Weight
+    * 26 - Mouse Cursor
+    * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-22~L-26)
