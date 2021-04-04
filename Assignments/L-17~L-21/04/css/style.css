@@ -1,0 +1,12 @@
+a {
+    color: white;
+    display: inline-block;
+    text-align: center;
+    background-color: #009688;
+    border-bottom: 5px solid #00514a;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

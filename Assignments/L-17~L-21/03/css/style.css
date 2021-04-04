@@ -1,0 +1,13 @@
+div {
+    background-color: #eee;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

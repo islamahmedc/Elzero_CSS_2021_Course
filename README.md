@@ -27,3 +27,10 @@
     * 15 - Dimensions – Width And Height
     * 16 - Overflow – Overflow-X And Overflow-Y
     * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-13~L-16)
+* ### [L-17 ~ L-21](https://github.com/islamahmedc/Elzero_CSS_2021_Course/wiki/L-17-~-L-21)
+    * 17 - Text – Color And Shadow
+    * 18 - Text – Alignment
+    * 19 - Text – Decoration And Transform
+    * 20 - Text – Spacing
+    * 21 - Text – Overflow And Use Cases
+    * ### [Assignments](https://github.com/islamahmedc/Elzero_CSS_2021_Course/tree/master/Assignments/L-17~L-21)

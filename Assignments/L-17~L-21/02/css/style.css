@@ -1,0 +1,13 @@
+p {
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.one {
+    text-transform: uppercase;
+}
+
+.two {
+    text-transform: capitalize;
+}
